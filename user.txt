@@ -1,0 +1,17 @@
+
+{
+    "_id" : ObjectId("5e1cab732938e83444c1f772"),
+    "role" : "ADMIN",
+    "nombre" : "admin",
+    "email" : "admin@mail.com",
+    "password" : "$2b$10$2vuHym4SpsoNyl1whLKTBeUVnnWFgEgljb07amshkS9WRbVxDt9A6" // 123456,
+    "__v" : 0
+},
+{
+    "_id" : ObjectId("5e1cab752938e83444c1f773"),
+    "role" : "USER",
+    "nombre" : "User",
+    "email" : "user@mail.com",
+    "password" : "$2b$10$2vuHym4SpsoNyl1whLKTBeUVnnWFgEgljb07amshkS9WRbVxDt9A6" // 123456,
+    "__v" : 0
+}
